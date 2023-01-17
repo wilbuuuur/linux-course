@@ -10,6 +10,7 @@ linux course assignments
 - gpu: NVIDIA 1070i
 - ram: 24Gb 
 
+### Asennus
 
 - lataa virtuaali kone (Oracle VM VirtualBox)
 ja linux ( debian-live-11.6.0-amd64-xfce+nonfree.iso )

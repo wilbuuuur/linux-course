@@ -1,2 +1,1 @@
-# linux-course
-linux course assignments
+# Linux course assignments

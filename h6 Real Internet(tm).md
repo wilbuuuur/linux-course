@@ -1,4 +1,4 @@
-# h6 Real Internet(tm)
+# h7 Real Internet(tm)
 
 ## x) [artikkeli](https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 

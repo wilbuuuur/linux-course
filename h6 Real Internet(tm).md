@@ -76,7 +76,9 @@ uudelleen käynnistys komennolla
     sudo service ssh restart
 
 
-## c) 7.2 / 18.30
+## c)
+
+aloitus 7.2 / 18.30
 
 Muokkasin index.html tiedostoa komennolla
 

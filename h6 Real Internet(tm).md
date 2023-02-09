@@ -12,8 +12,6 @@ Tero Karvisen artikkeli kertoo oman palvelimen luomisen alkuvaiheista.
 
 aloitus 7.2 / 16.50
 
-menin linoden sivuille johon loin uudet tunnukset joilla kirjauduin sisäään.
-
 Valitsin palveluntarjoajaksi [linoden](https://www.linode.com). Loin käyttäjä tunnuksen ja kirjauduin uudelle käyttäjälle. Kirjauduttuani aloitin palvelimen/linoden lumisen.
 
 Valitsin Distribution kohtaan Debian11, sijainniksi Frankfurt, DE (eu-central) ja Linode Planiksi Shared CPU, nanode 1 GB
